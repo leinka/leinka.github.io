@@ -44,3 +44,7 @@ header.startup {
     justify-content: center;
     margin-bottom: 15%;
 }
+
+#mc_embed_signup form {
+    padding: 0, 0, 0, 0;
+}
