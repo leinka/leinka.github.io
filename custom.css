@@ -1,0 +1,46 @@
+body,
+html {
+    width: 100%;
+    height: 100%;
+     background-position: center;
+    background-image: url(divine-kitties.jpg);
+    background-size: cover;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+header {
+    
+}
+
+
+header.startup {
+   
+}
+
+.container-fluid {
+    height: 100%;
+ 
+}
+
+.btn-primary {
+    background-color: black;
+    border-color: white;
+    
+}
+
+
+
+.black-film {
+    width: 100%;
+    background-color: rgba(0,0,0,0.8);
+}
+
+.buttonik {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 15%;
+}
